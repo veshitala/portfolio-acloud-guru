@@ -7,8 +7,8 @@ phases:
 
 artifacts:
   files:
-    - index.html
-    - favicon.ico
-    - sheetala2.pdf
-    - styles/main.css
-    - images/*
+    -index.html
+    -favicon.ico
+    -sheetala2.pdf
+    -styles/main.css
+    -images/*
