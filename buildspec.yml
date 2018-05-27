@@ -1,14 +1,14 @@
 version: 0.1
 
 phases:
-  builds:
+  build:
     commands:
       - echo nothing to do yet
 
 artifacts:
   files:
-    -index.html
-    -favicon.ico
-    -sheetala2.pdf
-    -styles/main.css
-    -images/*
+    - index.html
+    - favicon.ico
+    - sheetala2.pdf
+    - styles/main.css
+    - images/*
